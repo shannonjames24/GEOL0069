@@ -73,9 +73,9 @@ Clone the repo
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This project can be used to see how unsupervised learning techniques can be applied to EO image and altimetry data to classify sea ice and lead.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Please see the image of a confusion matrix of this algorithm 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,6 +93,6 @@ Project Link: [https://github.com/shannonjames24/GEOL0069](https://github.com/sh
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [UCL]()
+* [University College London]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
