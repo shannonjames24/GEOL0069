@@ -37,7 +37,12 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+For this project, we are using Google Collaborate to run our code. There are two Google collaborate notebooks in this repository.
+
+1. Copy of Chapter1_Data_Colocating_S2_S3.ipynb
+2. Copy of Chapter1_Unsupervised_Learning_Methods_Michel.ipynb
+
+We are using the first notebook to download and save the Sentinal-2 and -3 data. Then in the second notebook we are 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -49,7 +54,7 @@ This section outlines the necessary prerequisites and installation.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Below is an example of the prerequities for this project.
 * npm
   ```sh
   npm install npm@latest -g
@@ -57,16 +62,15 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+3. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
