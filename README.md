@@ -82,9 +82,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Shannon James
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/shannonjames24/GEOL0069](https://github.com/shannonjames24/GEOL0069)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,8 +93,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [UCL]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
