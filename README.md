@@ -54,7 +54,10 @@ This section outlines the necessary prerequisites and installation.
 
 ### Prerequisites
 
-Below is an example of the prerequities for this project. 
+Below is one example of the prerequities for this project.
+
+All the necessary imporats and installations are already listed in the notebooks.
+
 * netCDF4
   ```sh
   !pip install netCDF4
@@ -64,15 +67,7 @@ Below is an example of the prerequities for this project.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+   git clone https://github.com/shannonjames24/GEOL0069.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
