@@ -38,7 +38,7 @@ For this project, we are using Google Collaborate to run our code. There are two
 1. Copy of Chapter1_Data_Colocating_S2_S3.ipynb
 2. Copy of Chapter1_Unsupervised_Learning_Methods_Michel.ipynb
 
-We are using the first notebook to download and save the Sentinal-2 and -3 data. Then in the second notebook we are analysising the data using Unsupervised Leanring Methods.
+We are using the first notebook to download and save the Sentinal-2 and -3 data. Then in the second notebook we are analysing the data using Unsupervised Leanring Methods.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,8 +74,6 @@ Clone the repo
 ## Usage
 
 This project can be used to see how unsupervised learning techniques can be applied to EO image and altimetry data to classify sea ice and lead.
-
-Please see the image of a confusion matrix of this algorithm 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
